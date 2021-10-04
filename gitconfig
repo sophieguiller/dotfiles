@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = sophie.guillermain@gmail.com
+	name = Sophie Guillermain
